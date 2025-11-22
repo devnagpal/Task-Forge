@@ -5,11 +5,17 @@ Task Forge is a simple and smart Task And Revision Planning Sytem. It helps stud
 
 ## Features:
 • Tasks having categories : STUDY , IMPORTANT , NORMAL , DAILY
+<br>
 • Tasks can have Sub-Tasks
+<br>
 • Mark Tasks or Sub-Tasks as Complete or Incomplete
+<br>
 • Toggle Reminders ON or OFF for specific Tasks
+<br>
 • Automatic Reminder Scheduler based on Task Category
+<br>
 • Data/Storage Management using JSON files
+<br>
 • Simple Menu-Driven Project
 
 ## Technologies/Tools Used:
@@ -20,8 +26,11 @@ Task Forge is a simple and smart Task And Revision Planning Sytem. It helps stud
 ## Steps to Run The Project:
 • Open your Terminal or VSCode Integrated Terminal and run:
 • git clone https://github.com/devnagpal/Task-Forge.git
+<br>
 • then, run: cd Task-Forge
+<br>
 • Make sure Python-3 is installed
+<br>
 • run python main.py
 
 ## Instructions for Testing:
