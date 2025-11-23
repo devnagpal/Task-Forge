@@ -1,0 +1,32 @@
+{
+  "Tasks": [
+    {
+      "id": "3277659e-e2ea-4825-9a35-a2d0f837c58b",
+      "title": "EEE Practicals Revise",
+      "category": "IMPORTANT",
+      "due_date": null,
+      "reminders_enabled": true,
+      "completed": true,
+      "subtasks": []
+    },
+    {
+      "id": "3ffa0fce-3be1-4f9c-b75e-34104a44eee6",
+      "title": "Maths Module-5",
+      "category": "STUDY",
+      "due_date": null,
+      "reminders_enabled": true,
+      "completed": false,
+      "subtasks": [
+        {
+          "id": "453ecc09-9437-4cbd-bc0c-3f62289d9ea3",
+          "title": "Remaining Questions from Lecture",
+          "category": "STUDY",
+          "due_date": null,
+          "reminders_enabled": false,
+          "completed": false,
+          "subtasks": []
+        }
+      ]
+    }
+  ]
+}
