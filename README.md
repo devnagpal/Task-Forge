@@ -1,7 +1,7 @@
 # TASK FORGE 
 ### A Smart To-Do List Revision Planner
 
-Task Forge is a simple and smart Task And Revision Planning Sytem. It helps students plan their work, track progess and systematically revise their topics/tasks through reminders.
+Task Forge is a simple and smart Task And Revision Planning System. It helps students plan their work, track progess and systematically revise their topics/tasks through reminders.
 
 ## Features:
 • Tasks having categories : STUDY , IMPORTANT , NORMAL , DAILY
